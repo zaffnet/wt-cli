@@ -41,11 +41,11 @@
     "sandboxjs": "5.0.0",
     "semver": "5.5.0",
     "structured-cli": "1.0.5",
-    "superagent": "3.8.3",
+    "superagent": "10.2.2",
     "superagent-proxy": "2.0.0",
     "through2": "2.0.3",
     "update-notifier": "2.5.0",
-    "webtask-bundle": "3.3.0",
+    "webtask-bundle": "3.4.0",
     "webtask-runtime": "2.0.0",
     "wreck": "10.0.0"
   },
